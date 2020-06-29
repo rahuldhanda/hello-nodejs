@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\My DO101\\DO101-apps"
 		}
 	]
 }
